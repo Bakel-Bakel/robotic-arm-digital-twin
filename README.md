@@ -1,4 +1,6 @@
 # 🤖Robotic Arm Digital Twin – Unity + MATLAB Integration
+![Screenshot from 2025-05-15 08-11-35](https://github.com/user-attachments/assets/0809f81f-b657-4d42-a62b-8ef46266b34d)
+![Screenshot from 2025-05-15 09-56-39](https://github.com/user-attachments/assets/e45630cf-d402-49fd-b039-a4563805e3ed)
 
 
 ## 🚀 Project Overview
