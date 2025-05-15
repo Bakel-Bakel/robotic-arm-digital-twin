@@ -3,6 +3,8 @@
 ## 🚀 Project Overview
 
 This project aims to create a **virtual robotic arm** in Unity, simulate its motion using kinematics, and control it using MATLAB via real-time communication. The pipeline integrates 3D modeling (SolidWorks → Blender → Unity), DH parameter setup, MATLAB Robotics Toolbox, and Unity scripting with C#.
+
+
 ![Screenshot from 2025-05-15 08-11-35](https://github.com/user-attachments/assets/0809f81f-b657-4d42-a62b-8ef46266b34d)
 
 The final objective is to implement an **interactive, intelligent robotic system** that can:
